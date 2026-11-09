@@ -8,7 +8,7 @@
     </parent>
     <groupId>io.github.nfalco79</groupId>
     <artifactId>github-steps</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>hpi</packaging>
     <name>Pipelines step for GitHub Plugin</name>
     <description>Steps to query details about repositories or handle team/user information in github.</description>
@@ -37,7 +37,7 @@
         <url>${project.url}</url>
         <connection>scm:git:git@github.com:nfalco79/github-steps-plugin.git</connection>
         <developerConnection>scm:git:git@github.com:nfalco79/github-steps-plugin.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>github-steps-1.0.0</tag>
     </scm>
 
     <properties>
