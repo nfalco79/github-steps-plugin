@@ -42,7 +42,7 @@
 
     <properties>
         <java.level>21</java.level>
-        <checkstyle.version>12.1.1</checkstyle.version>
+        <checkstyle.version>14.4.0</checkstyle.version>
 
         <jenkins.baseline>2.555</jenkins.baseline>
         <jenkins.version>${jenkins.baseline}.3</jenkins.version>
