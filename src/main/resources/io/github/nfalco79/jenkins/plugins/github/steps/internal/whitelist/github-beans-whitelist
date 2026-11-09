@@ -1,0 +1,19 @@
+method org.kohsuke.github.GHPullRequest getCommits
+method org.kohsuke.github.GHPullRequest listCommits
+method org.kohsuke.github.GHPullRequest isDraft
+method org.kohsuke.github.GHPullRequest getRequestedReviewers
+method org.kohsuke.github.GHPullRequest getBase
+method org.kohsuke.github.GHPullRequest getHead
+
+method org.kohsuke.github.GHPullRequestCommitDetail getParents
+method org.kohsuke.github.GHPullRequestCommitDetail getCommit
+method org.kohsuke.github.GHPullRequestCommitDetail getUrl
+method org.kohsuke.github.GHPullRequestCommitDetail getSha
+
+method org.kohsuke.github.GHPullRequestCommitDetail$Commit getAuthor
+method org.kohsuke.github.GHPullRequestCommitDetail$Commit getMessage
+
+method org.kohsuke.github.GitUser getDate
+method org.kohsuke.github.GitUser getEmail
+method org.kohsuke.github.GitUser getName
+method org.kohsuke.github.GitUser getUsername
